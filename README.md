@@ -76,8 +76,9 @@ button {
 }
 button:hover {
  background-color: #0056b3;
-}```
- ### **JavaScript**
+}
+```
+  ### **JavaScript**  
 ```JavaScript
 function showMessage() {
  alert('Привет, мир!');
@@ -85,6 +86,17 @@ function showMessage() {
 }
 document.addEventListener('DOMContentLoaded', function() {
  console.log('Страница загружена');
-});```
+});
+```
+---
+### **Прогресс**   
+- [x] Установить текстовый редактор   
+- [x] Изучить основы Markdown   
+- [ ] Создать свой первый веб-сайт
+
+---   
+***[JavaScript](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)***   
+***[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)***   
+***[HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basic)***
 
   
